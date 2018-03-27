@@ -3,12 +3,12 @@
     "description": "OpenSSL tools for PHP",
     "type": "library",
     "license": "Apache-2.0",
+    "version": "1.0.0",
     "authors": [
         {
             "name": "Viktor Krasnov",
             "email": "krasnovvy@gmail.com"
         }
     ],
-    "minimum-stability": "stable",
     "require": {}
 }
