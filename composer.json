@@ -1,0 +1,14 @@
+{
+    "name": "webslon/open-ssl",
+    "description": "OpenSSL tools for PHP",
+    "type": "library",
+    "license": "Apache-2.0",
+    "authors": [
+        {
+            "name": "Viktor Krasnov",
+            "email": "krasnovvy@gmail.com"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require": {}
+}
